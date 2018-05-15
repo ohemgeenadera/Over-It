@@ -1,0 +1,102 @@
+body{
+	background-color: #ffcc99;}
+
+h1{
+	font-family:"Montez";
+
+}
+
+#home{text-align: center;
+	margin-top: 5%;
+}
+
+.jumbotron1{
+background-color: #ffe6e6;
+padding: 60px;
+text-align: center;
+}
+
+.jumbotron2{
+	background-color: #ffe6e6;
+	border: 5px solid dotted;
+	
+}
+.class nav{
+	
+}
+img, h2{
+	margin-left: auto;
+	margin-right: auto;
+}
+#home img {
+	border: 5px solid;
+	border-radius: 20px;
+}
+h2 {
+	margin-top: 10%;
+	width: 20%
+}
+a {
+	color: purple;
+}
+#home h2 {
+	border: 5px solid;
+	border-radius: 20px;
+}
+.idk img {
+	width: 100%;
+}
+
+.tea img{
+	width: 75%;
+}
+
+.maslow img{
+	width: 100%
+}
+.inhaleexhale img{
+	width: 65%;
+}
+}
+
+li{
+	background-color:
+	height: 100%
+}
+
+body{
+    background-color: #ffcc99;
+  }
+
+  
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #ffe6e6;
+      height: 100%;
+    }
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
